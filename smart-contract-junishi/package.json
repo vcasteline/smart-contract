@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "truffle": "^5.5.9"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
